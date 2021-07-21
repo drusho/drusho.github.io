@@ -2,6 +2,7 @@
 layout: page
 title: Dashboards
 # permalink: /dashboards/
+url: drusho.github.io/dashboards
 ---
 
 
