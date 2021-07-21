@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is David Rusho.  I have a passion for using data to tell stories and discover meaningful insights. I started programming almost accidentally while looking for methods to automate repetitive tasks at work.  I am an advanced spreadsheet formulas user and found that transitioning to writing code in python was a natural next step in my data science journey.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Currently, I'm based out of Orlando, FL, where I am currently enrolled in an MS Data Analytics (Big Data) program at the University of Central Florida. When I'm not programming or reading about Data Science, you can usually find me playing with photography, practicing yoga, or learning to cook Korean/Indian food.
