@@ -23,6 +23,11 @@ you could put your extra link next to it like this:
         </label>
 
         <div class="trigger">
+          <a class="page-link" href="http://drusho.github.io/blog">Blog</a>
+          <a class="page-link" href=https://drusho.github.io/dashboards/>Dashboards</a>
+          <a class="page-link" href=https://drusho.github.io/about/>About</a>
+          <a class="page-link" href=https://drusho.github.io/blog/search/>Search</a>
+          <a class="page-link" href=https://drusho.github.io/blog/categories/>Tags</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
@@ -37,9 +42,6 @@ or after the {%- endfor -%}
 
           <!-- <a class="page-link" href="http://drusho.github.io/about">About</a>
           <a class="page-link" href="http://drusho.github.io/dashboard">Dashboards</a> -->
-          <a class="page-link" href=https://drusho.github.io/blog/search/>Search</a>
-          <a class="page-link" href=https://drusho.github.io/blog/categories/>Tags</a>
-          <a class="page-link" href="http://drusho.github.io/blog">Blog</a>
 
         </div>
       </nav>
