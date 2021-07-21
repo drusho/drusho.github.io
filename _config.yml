@@ -35,6 +35,13 @@ plugins:
   - jekyll-feed
 
 
+minima:
+  social_links:
+    twitter: drusho
+    github: drusho
+    linkedin: davidrusho
+
+
   # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: G-PQV3VQXZM1
 
