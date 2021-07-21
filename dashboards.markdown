@@ -1,8 +1,8 @@
 ---
-Dashboards: dashboards
+layout: page
+title: Dashboards
+permalink: /dashboards/
 ---
-
-<h1>{{ page.Dashboards }}</h1>
 
 
 <br>
