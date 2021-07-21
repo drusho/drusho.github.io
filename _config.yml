@@ -25,7 +25,7 @@ title: Rusho Analytics
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://drusho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://drusho.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drusho
 github_username:  drusho
 
@@ -42,7 +42,7 @@ minima:
     linkedin: davidrusho
 
 
-  # Add your Google Analytics ID here if you have one and want to use it
+# Add your Google Analytics ID here if you have one and want to use it
 google_analytics: G-PQV3VQXZM1
 
 # Exclude from processing.
