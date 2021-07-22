@@ -10,16 +10,17 @@ permalink: /dashboards/
 ---
 
 1. [Florida Schools (2020-2021) COVID-19 Dashboard](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
-   [<img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/tableau_dashboard_preview.png" height="200" />](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
 
+
+    [<img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/tableau_dashboard_preview.png" height="200" />](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
 
 <br>
 
 2. [US Firework Injuries (2016-2021) Dashboard](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
+
     [<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/assets/tableau_dashboard_preview.png" height="200"/>](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
 <br>
-
 
 3. [World COVID-19 Tracking Dashboard (12/2019 - 06/2020)](https://public.tableau.com/app/profile/drusho/viz/Europa_COVID-19_Data/Dashboard1)
 
