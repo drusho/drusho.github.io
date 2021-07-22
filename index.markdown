@@ -5,12 +5,12 @@
 layout: home
 ---
 
-[<img src="https://img.shields.io/badge/Github_Blog-%23ffa64d.svg?&style=flat&logo=&logoColor=" />](https://drusho.github.io/blog) [<img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat&logo=github&logoColor=white" />](https://github.com/drusho)  [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?flat&logo=twitter&logoColor=white">](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=flat&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho) [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=flat=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
+[<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/drusho) [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho)  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
 
 ## Welcome to my Analytics Site
 
 
-<img src="https://github.com/drusho/blog/blob/master/assets/headshot.jpg?raw=true"  height="150" >
+<img src="https://github.com/drusho/blog/blob/master/assets/headshot.jpg?raw=true"  height="150" width="150">
 
 <br>
 
