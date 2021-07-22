@@ -77,7 +77,7 @@ google_analytics: G-PQV3VQXZM1
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-  - Gemfile
+  # - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
