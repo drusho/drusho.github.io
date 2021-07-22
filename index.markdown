@@ -11,11 +11,10 @@ title: Home
 
 ## Welcome to my Analytics Site
 
-<br>
-<br>
 
-<img src="https://github.com/drusho/blog/blob/master/assets/headshot.jpg?raw=true"  height="150" img align="left">
+<img src="https://github.com/drusho/blog/blob/master/assets/headshot.jpg?raw=true"  height="150" >
 
+<br>
 
 
 
