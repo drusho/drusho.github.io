@@ -20,12 +20,31 @@
 
 title: Rusho Analytics
 # email: your-email@example.com
-# description: >- # this means to ignore newlines until "baseurl:"
+
+tagline: Creating meaningful insights with data.
+description: Exploring data with python and other analytical tools.
+
+
+# this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
-  # Google search results) and in your feed.xml site description.
+  #   Google search results) and in your feed.xml site description.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://drusho.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://drusho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: David Rusho
+
+twitter:
+  username: drusho
+  card: summary
+
+social:
+  name: David Rusho
+  links:
+    - https://twitter.com/drusho
+    - https://www.linkedin.com/in/davidrusho
+    - https://github.com/drusho
+
 twitter_username: drusho
 github_username:  drusho
 
@@ -33,6 +52,7 @@ github_username:  drusho
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 minima:
@@ -57,7 +77,7 @@ google_analytics: G-PQV3VQXZM1
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
+  - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
