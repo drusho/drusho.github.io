@@ -10,14 +10,20 @@ permalink: /dashboards/
 ## [Tableau](https://public.tableau.com/profile/drusho#!/)
 ---
 
-### [Florida Schools (2020-2021) COVID-19 Dashboard](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
+### [120 Years of Olympics](https://public.tableau.com/views/120YearsofOlympics_16270667103520/Dashboard1)
+
+
+[<img src="https://raw.githubusercontent.com/drusho/drusho.github.io/main/assets/tableau%20dashboard_120_Years_of_olympics.png" alt="screenshot of Tableau Dashboard: 'Olympics 120 History Dashboard'" height="200" width="325"/>](https://public.tableau.com/views/120YearsofOlympics_16270667103520/Dashboard1)
+
+
+### [Florida Schools (2020-2021) COVID-19](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
 
 
 [<img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/tableau_dashboard_preview.png" alt="screenshot of Tableau Dashboard: 'Florida Schools Covid19'" height="200" width="325"/>](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
 
 <br>
 
-### [US Firework Injuries (2016-2021) Dashboard](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
+### [US Firework Injuries (2016-2021)](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
 [<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/assets/tableau_dashboard_preview.png" alt="screenshot of Tableau Dashboard: 'US Firework Injuries'" height="200" width="325"/>](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
